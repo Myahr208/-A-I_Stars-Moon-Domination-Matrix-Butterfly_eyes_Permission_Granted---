@@ -1,4 +1,4 @@
-# The bootstrap compiler is needed for an older version of Dagger so that Dagger can build while
+The bootstrap compiler is needed for an older version of Dagger so that Dagger can build while
 # also using Dagger internally.
 # The xprocessing jars are there temporarily during the migration to KSP. These will be replaced
 # by normal dependencies on xprocessing once the xprocessing APIs stabilize. See b/191911048 and
